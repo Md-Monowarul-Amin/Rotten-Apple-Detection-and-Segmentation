@@ -20,11 +20,11 @@ This project focuses on the detection and segmentation of fresh and rotten apple
 - Support for both red and green varieties of apples
 - Visualization of detection and segmentation results
 
-## Original Image
+**Original Image**
 ![Original Image](apples2.jpeg)
-
+**Rotten Detected Image**
 ![Rotten Detected Image](detected_rotten_apples.png)
-
+**Rotten Segmented Image**
 ![Rotten Segmented Image](segmented_apples.png)
 
 
